@@ -1,4 +1,4 @@
-from os import pipe
+from os import _ScandirIterator, pipe
 import subprocess
 
 def get_wifi_profiles():

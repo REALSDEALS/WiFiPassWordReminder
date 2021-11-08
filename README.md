@@ -1,5 +1,7 @@
 # WiFiPassWordReminder
-Forgot a WiFi-Password from a network that you were connected too? Not anymore!
+![GitHub repo size](https://img.shields.io/github/repo-size/REALSDEALS/WiFiPassWordReminder?label=Repository%20Size) ![GitHub](https://img.shields.io/github/license/REALSDEALS/WiFiPassWordReminder) ![GitHub top language](https://img.shields.io/github/languages/top/REALSDEALS/WiFiPassWordReminder)
+
+### Forgot a WiFi-Password from a network that you were connected too? Not anymore!
 
 # Main Purpose?
 The main purpose of this script is to demonstrate to others what some simple line of code can do.
